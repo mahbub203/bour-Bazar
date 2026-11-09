@@ -1,23 +1,16 @@
-# বউ এর বাজার (Bou er Bazar) 🛒
-> **"Bou List Dibe, Bor Bazar Korbe, Hisab Thakbe Ekshathe!"**  
-> *"Bazar er tension kom, Hisab thakuk ekdom clear!"*  
-> *"বউ এর বাজার: Shongshar choluk smartly, Hisab thakuk ekshathe!"*
+# 🛒 বউ এর বাজার
+## ডিজিটাল পারিবারিক বাজার, স্মার্ট হিসাব ও খুনসুটি প্ল্যাটফর্ম
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Website-198754?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mahbub203.github.io/bour-bazar/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-mahbub203%2Fbour--bazar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahbub203/bour-bazar)
+> **🌐 LIVE DEMO LINK: [https://mahbub203.github.io/bour-bazar/](https://mahbub203.github.io/bour-bazar/)**  
+> **🛒 USE DIRECTLY IN YOUR BROWSER NOW: [https://mahbub203.github.io/bour-bazar/](https://mahbub203.github.io/bour-bazar/)**
 
----
-
-### 🌍 Live Website: [https://mahbub203.github.io/bour-bazar/](https://mahbub203.github.io/bour-bazar/)
-> **Click the live link above to immediately explore and test the application on any phone, tablet, or desktop browser!**
+[![Live Demo](https://img.shields.io/badge/PLAY_NOW-LIVE_DEMO-success?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mahbub203.github.io/bour-bazar/)
+[![GitHub Pages](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?style=for-the-badge&logo=github)](https://mahbub203.github.io/bour-bazar/)
+[![License](https://img.shields.io/badge/license-MIT-purple?style=for-the-badge)](LICENSE)
 
 ---
 
-A production-quality household shopping, expense management, couple savings, and playful relationship harmony web application designed for Bangladeshi families.
-
----
-
-## 🌟 Architecture & Implemented Feature Highlights
+## 🌟 Key Features
 
 ### 🥊 New Module: ঝগড়া হিসাব (Jhogra Hisab - Disagreement & Reconciliation Ledger)
 - **Tagline**: *"সংসারে কে কয়বার ঝগড়া করলো, সব হিসাব আছে! 😂"*
