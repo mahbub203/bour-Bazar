@@ -3,11 +3,32 @@
 > *"Bazar er tension kom, Hisab thakuk ekdom clear!"*  
 > *"Bou r Bazar: Shongshar choluk smartly, Hisab thakuk ekshathe!"*
 
-A production-quality household shopping, expense management, and couple savings web application designed for Bangladeshi families.
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Website-198754?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mahbub203.github.io/bour-bazar/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-mahbub203%2Fbour--bazar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahbub203/bour-bazar)
+
+---
+
+### 🌍 Live Website: [https://mahbub203.github.io/bour-bazar/](https://mahbub203.github.io/bour-bazar/)
+> **Click the live link above to immediately explore and test the application on any phone, tablet, or desktop browser!**
+
+---
+
+A production-quality household shopping, expense management, couple savings, and playful relationship harmony web application designed for Bangladeshi families.
 
 ---
 
 ## 🌟 Architecture & Implemented Feature Highlights
+
+### 🥊 New Module: ঝগড়া হিসাব (Jhogra Hisab - Disagreement & Reconciliation Ledger)
+- **Tagline**: *"সংসারে কে কয়বার ঝগড়া করলো, সব হিসাব আছে! 😂"*
+- **Jhogra Dashboard**: Tracks monthly disagreements, Bou's reports, Bor's counter-claims, resolution rate, and top triggers.
+- **Record Disagreement**: 8 predefined triggers (forgot bazar, didn't listen, late home, phone addiction, budget blowouts, remote control fights, forgot important dates) + severity meter (হালকা 🤏, মাঝারি 🗣️, মহাপ্রলয় 💥).
+- **Interactive Dispute & Resolution**: Partners can resolve with peace offerings or playfully dispute claims.
+- **Sorry Counter (সরি কাউন্টার 🙇)**: Live apology leaderboard with 1-click sweet apologies and notification triggers.
+- **Man Vanganor Meter (মান ভাঙানোর কাউন্টার 🍧)**: Point-based reward system for making tea, bringing fuchka/sweets, or washing night dinner dishes.
+- **Peace Maker Awards (শান্তি পদক ও অ্যাওয়ার্ড 🏆)**: 5 playful couple honors including *Chief Peace Envoy*, *Bazar Forgetting Champion*, and *Drama King/Queen*.
+- **Family Peace Treaty (পারিবারিক শান্তি চুক্তিপত্র 📜)**: Royal printable/downloadable concordat complete with couple signatures and peace seal.
+- **Jhogra Calendar (ঝগড়া ক্যালেন্ডার 📅)**: Monthly interactive visual calendar mapping couple banters.
 
 ### 1. Product Identity & Design (Part 1)
 - **Palette**: Fresh Green (`#198754` / `#10b981`), Warm Cream (`#FFF9ED`), Warm Orange (`#F4A340`), Soft Off-White Background (`#fcfbf9`), Dark Charcoal typography.
