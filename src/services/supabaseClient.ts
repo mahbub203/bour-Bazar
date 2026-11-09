@@ -41,7 +41,7 @@ export const getSupabaseClient = (): SupabaseClient | null => {
 // COMPLETE 16-TABLE POSTGRESQL SCHEMA WITH ROW LEVEL SECURITY (RLS) FOR SUPABASE
 // ==============================================================================
 export const SUPABASE_SQL_SCHEMA = `-- ==============================================================================
--- BOU R BAZAR (বউর বাজার) - MASTER DATABASE SCHEMA
+-- BOU ER BAZAR (বউ এর বাজার) - MASTER DATABASE SCHEMA
 -- Complies with Part 16: 16 Relational Tables with RLS & Referential Integrity
 -- ==============================================================================
 

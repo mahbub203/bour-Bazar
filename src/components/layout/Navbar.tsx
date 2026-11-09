@@ -77,10 +77,10 @@ export const Navbar: React.FC<NavbarProps> = ({
               <div>
                 <div className="flex items-center gap-1.5">
                   <span className="font-extrabold text-lg tracking-tight text-slate-900 group-hover:text-emerald-700 transition-colors">
-                    Bou r Bazar
+                    বউ এর বাজার
                   </span>
                   <span className="text-xs px-1.5 py-0.5 rounded font-semibold bg-emerald-100 text-emerald-800 border border-emerald-200">
-                    বউর বাজার
+                    Bou er Bazar
                   </span>
                 </div>
                 <p className="text-[11px] text-slate-500 font-medium hidden sm:block">

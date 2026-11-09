@@ -134,7 +134,7 @@ export const BazarListView: React.FC = () => {
   // WhatsApp Share generator
   const handleShareWhatsApp = () => {
     const lines = [
-      `🛒 *Bou r Bazar List*`,
+      `🛒 *বউ এর বাজার ফর্দ (Bazar List)*`,
       `📅 Date: ${new Date().toLocaleDateString()}`,
       `👤 Shopper Assigned: Tanvir (Bor)`,
       `-----------------------------`,

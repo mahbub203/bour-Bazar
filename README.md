@@ -1,7 +1,7 @@
-# Bou r Bazar (বউর বাজার) 🛒
+# বউ এর বাজার (Bou er Bazar) 🛒
 > **"Bou List Dibe, Bor Bazar Korbe, Hisab Thakbe Ekshathe!"**  
 > *"Bazar er tension kom, Hisab thakuk ekdom clear!"*  
-> *"Bou r Bazar: Shongshar choluk smartly, Hisab thakuk ekshathe!"*
+> *"বউ এর বাজার: Shongshar choluk smartly, Hisab thakuk ekshathe!"*
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Website-198754?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mahbub203.github.io/bour-bazar/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-mahbub203%2Fbour--bazar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahbub203/bour-bazar)

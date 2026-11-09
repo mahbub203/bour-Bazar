@@ -69,7 +69,7 @@ export const ReportsView: React.FC = () => {
     const content = 'data:text/csv;charset=utf-8,' + [headers, ...rows].join('\n');
     const link = document.createElement('a');
     link.setAttribute('href', encodeURI(content));
-    link.setAttribute('download', `Bour_Bazar_Financial_Report_${new Date().toISOString().split('T')[0]}.csv`);
+    link.setAttribute('download', `Bou_er_Bazar_Financial_Report_${new Date().toISOString().split('T')[0]}.csv`);
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);

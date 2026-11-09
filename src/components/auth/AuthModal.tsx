@@ -56,7 +56,7 @@ export const AuthModal: React.FC<AuthModalProps> = ({ isOpen, onClose }) => {
                 {mode === 'login' ? t.login : mode === 'register' ? t.register : t.forgotPassword}
               </h3>
               <p className="text-xs text-slate-500">
-                Bou r Bazar Account
+                বউ এর বাজার (Bou er Bazar)
               </p>
             </div>
           </div>

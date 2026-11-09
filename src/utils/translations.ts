@@ -3,11 +3,11 @@ export type Language = 'en' | 'bn';
 export const translations = {
   en: {
     // Brand
-    appName: "Bou r Bazar",
-    banglaAppName: "বউর বাজার",
+    appName: "বউ এর বাজার",
+    banglaAppName: "বউ এর বাজার",
     tagline: "Bou List Dibe, Bor Bazar Korbe, Hisab Thakbe Ekshathe!",
     taglineShort: "Bazar er tension kom, Hisab thakuk ekdom clear!",
-    finalTagline: "Bou r Bazar: Shongshar choluk smartly, Hisab thakuk ekshathe!",
+    finalTagline: "বউ এর বাজার: Shongshar choluk smartly, Hisab thakuk ekshathe!",
     
     // Roles
     bou: "Bou (Wife)",
@@ -247,11 +247,11 @@ export const translations = {
   },
   bn: {
     // Brand
-    appName: "বউর বাজার",
-    banglaAppName: "Bou r Bazar",
+    appName: "বউ এর বাজার",
+    banglaAppName: "বউ এর বাজার",
     tagline: "বউ লিস্ট দিবে, বর বাজার করবে, হিসাব থাকবে একসাথে!",
     taglineShort: "বাজারের টেনশন কম, হিসাব থাকুক একদম ক্লিয়ার!",
-    finalTagline: "বউর বাজার: সংসার চলুক স্মার্টলি, হিসাব থাকুক একসাথে!",
+    finalTagline: "বউ এর বাজার: সংসার চলুক স্মার্টলি, হিসাব থাকুক একসাথে!",
     
     // Roles
     bou: "বউ",
